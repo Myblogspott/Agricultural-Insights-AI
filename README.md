@@ -51,7 +51,7 @@ Start the development server:
 npm run dev
 ```
 
-Runs at: [http://localhost:5173](http://localhost:5173)
+Runs at: [http://localhost:8080](http://localhost:8080)
 
  3. 🔧 Backend Setup (Flask + Pandas)
 
@@ -113,7 +113,7 @@ cd agri-frontend
 npm run dev
 ```
 
-Then open: **http://localhost:5173**
+Then open: **http://localhost:8080**
 
 Upload → Configure → Analyze → Download
 
