@@ -1,0 +1,11 @@
+pandas
+streamlit
+gradio
+openai
+markdown
+faker
+python-dotenv
+tabulate
+plotly
+matplotlib
+scikit-learn
