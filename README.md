@@ -26,7 +26,7 @@ An intuitive tool for:
  1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/agri-financial-insights-dash.git
+git clone https://github.com/Myblogspott/agri-financial-insights-dash.git
 cd agri-financial-insights-dash
 ```
 
